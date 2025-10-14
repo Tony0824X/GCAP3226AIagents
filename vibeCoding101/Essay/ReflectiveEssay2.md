@@ -15,7 +15,7 @@ This matters for our **Group 5** project on **cost-effectiveness**. Robust data 
 
 <h4 style="text-align:left; margin-left:20px;">References & Links</h4>
 
-- <a href="https://www.wastereduction.gov.hk/en-hk/recycling-faq/greencommunity-faq">GREEN@COMMUNITY – FAQs</a>
-- <a href="https://app7.legco.gov.hk/rpdb/en/uploads/2024/ISSH/ISSH10_2024_20240520_en.pdf">LegCo Research Brief: GREEN@COMMUNITY (May 20, 2024) [PDF]</a>
-- <a href="https://www.budget.gov.hk/2025/eng/pdf/head044.pdf">The 2025–26 Estimates: Head 44 – Environmental Protection Department [PDF]</a>
-- <a href="https://data.gov.hk/tc-data/dataset/hk-epd-recycteam-waste-less-recyclable-collection-points-data">Data.gov.hk – Recycling Collection Points Dataset</a>
+<a href="https://www.wastereduction.gov.hk/en-hk/recycling-faq/greencommunity-faq">GREEN@COMMUNITY – FAQs</a>
+<a href="https://app7.legco.gov.hk/rpdb/en/uploads/2024/ISSH/ISSH10_2024_20240520_en.pdf">LegCo Research Brief: GREEN@COMMUNITY (May 20, 2024) [PDF]</a>
+<a href="https://www.budget.gov.hk/2025/eng/pdf/head044.pdf">The 2025–26 Estimates: Head 44 – Environmental Protection Department [PDF]</a>
+<a href="https://data.gov.hk/tc-data/dataset/hk-epd-recycteam-waste-less-recyclable-collection-points-data">Data.gov.hk – Recycling Collection Points Dataset</a>
