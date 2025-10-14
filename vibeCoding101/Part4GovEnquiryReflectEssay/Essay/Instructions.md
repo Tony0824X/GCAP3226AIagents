@@ -1,4 +1,4 @@
-Input: /workspaces/GCAP3226AIagents/vibeCoding101/Essay/GCAP3226_email_to_EPD.md
+Input: /workspaces/GCAP3226AIagents/vibeCoding101/Part4GovEnquiryReflectEssay/Essay/GCAP3226_email_to_EPD.md
 
 Process:
 Write a 200-word reflective essay about my experience with government enquiries and AI assistance for GCAP 3226.
@@ -29,4 +29,4 @@ https://www.budget.gov.hk/2025/eng/pdf/head044.pdf
 https://data.gov.hk/tc-data/dataset/hk-epd-recycteam-waste-less-recyclable-collection-points-data
 
 
-Output: /workspaces/GCAP3226AIagents/vibeCoding101/Essay/ReflectiveEssay2.md
+Output: /workspaces/GCAP3226AIagents/vibeCoding101/Part4GovEnquiryReflectEssay/ReflectiveEssay2_24202495.md
