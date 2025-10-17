@@ -20,7 +20,10 @@ This matters for our **Group 5** project on **cost-effectiveness**. Robust data 
 
 <h4 style="text-align:left; margin-left:20px;">References & Links</h4>
 
-- <a href="https://www.wastereduction.gov.hk/en-hk/recycling-faq/greencommunity-faq">GREEN@COMMUNITY – FAQs</a>
-- <a href="https://app7.legco.gov.hk/rpdb/en/uploads/2024/ISSH/ISSH10_2024_20240520_en.pdf">LegCo Research Brief: GREEN@COMMUNITY (May 20, 2024) [PDF]</a>
-- <a href="https://www.budget.gov.hk/2025/eng/pdf/head044.pdf">The 2025–26 Estimates: Head 44 – Environmental Protection Department [PDF]</a>
-- <a href="https://data.gov.hk/tc-data/dataset/hk-epd-recycteam-waste-less-recyclable-collection-points-data">Data.gov.hk – Recycling Collection Points Dataset</a>
+- <a href="https://github.com/Tony0824X/GCAP3226AIagents/tree/main/vibeCoding101/Part4GovEnquiryReflectEssay">Jupyter Notebook (link to Part4GovEnquiryReflectEssay)</a>
+- <a href="https://github.com/Tony0824X/GCAP3226AIagents/blob/main/vibeCoding101/Part4GovEnquiryReflectEssay/Essay/Instructions.md">Instruction file for the AI agent</a>
+- <a href="https://github.com/Tony0824X/GCAP3226AIagents/blob/main/vibeCoding101/Part4GovEnquiryReflectEssay/Essay/GCAP3226_email_to_EPD.md">Government Enquiry Letter</a>
+- <a href="https://github.com/Tony0824X/GCAP3226AIagents/blob/main/vibeCoding101/Part4GovEnquiryReflectEssay/Essay/GREEN%40COMMUNITY%20%E2%80%93%20FAQs.md">GREEN@COMMUNITY – FAQs</a>
+- <a href="https://github.com/Tony0824X/GCAP3226AIagents/blob/main/vibeCoding101/Part4GovEnquiryReflectEssay/Essay/LegCo%20Research%20Brief%3A%20GREEN%40COMMUNITY.md">LegCo Research Brief: GREEN@COMMUNITY</a>
+- <a href="https://github.com/Tony0824X/GCAP3226AIagents/blob/main/vibeCoding101/Part4GovEnquiryReflectEssay/Essay/The%202025%E2%80%9326%20Estimates%3A%20Head%2044%20%E2%80%93%20Environmental%20Protection%20Department.md">The 2025–26 Estimates: Head 44 – Environmental Protection Department</a>
+- <a href="https://github.com/Tony0824X/GCAP3226AIagents/blob/main/vibeCoding101/Part4GovEnquiryReflectEssay/Essay/Data.gov.hk%20%E2%80%93%20Recycling%20Collection%20Points%20Dataset.md">Data.gov.hk – Recycling Collection Points Dataset</a>
