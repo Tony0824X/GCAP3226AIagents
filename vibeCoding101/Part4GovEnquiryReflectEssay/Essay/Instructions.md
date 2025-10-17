@@ -1,7 +1,7 @@
 Input: /workspaces/GCAP3226AIagents/vibeCoding101/Part4GovEnquiryReflectEssay/Essay/GCAP3226_email_to_EPD.md
 
 Process:
-Write a 200-word reflective essay (guideline & structure) about my experience with government enquiries and AI assistance for GCAP 3226.
+Design a 200-word reflective essay (guideline & structure) about my experience with government enquiries and AI assistance for GCAP 3226.
 
 Please help me draft an essay that reflects on:
 - My experience drafting a government enquiry letter
@@ -22,7 +22,7 @@ Low data access in participatory policy analysis will lead to less transparency.
 - How this relates to my team project
 If we have enough data on Green@Community, such as total cost, we can make a high-quality analysis using linear regression and simulation models; if we are rejected, we can use other data to estimate or conduct on-site interviews to collect the data.
 
-- References & Links I Used
+- References & Links
 /workspaces/GCAP3226AIagents/vibeCoding101/Part4GovEnquiryReflectEssay/Essay/GCAP3226_email_to_EPD.md
 /workspaces/GCAP3226AIagents/vibeCoding101/Part4GovEnquiryReflectEssay/Essay/Data.gov.hk – Recycling Collection Points Dataset.md
 /workspaces/GCAP3226AIagents/vibeCoding101/Part4GovEnquiryReflectEssay/Essay/GREEN@COMMUNITY – FAQs.md
